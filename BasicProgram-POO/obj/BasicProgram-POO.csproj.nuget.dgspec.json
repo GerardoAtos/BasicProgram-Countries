@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a847065\\Git\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\a847065\\Git\\ConsoleApp1\\BasicProgram-POO\\BasicProgram-POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a847065\\Git\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\a847065\\Git\\ConsoleApp1\\BasicProgram-POO\\BasicProgram-POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a847065\\Git\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\a847065\\Git\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\a847065\\Git\\ConsoleApp1\\BasicProgram-POO\\BasicProgram-POO.csproj",
+        "projectName": "BasicProgram-POO",
+        "projectPath": "C:\\Users\\a847065\\Git\\ConsoleApp1\\BasicProgram-POO\\BasicProgram-POO.csproj",
         "packagesPath": "C:\\Users\\a847065\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a847065\\Git\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\a847065\\Git\\ConsoleApp1\\BasicProgram-POO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
