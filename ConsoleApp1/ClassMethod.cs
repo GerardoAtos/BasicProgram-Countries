@@ -25,6 +25,10 @@ namespace ConsoleApp1
                     Console.WriteLine("File generated successfully!!!");
                 }
             }
+            catch (FileNotFoundException e)
+            {
+                Console.WriteLine(e.Message);
+            }
             catch (Exception e)
             {
                 Console.WriteLine("Exception: " + e.Message);

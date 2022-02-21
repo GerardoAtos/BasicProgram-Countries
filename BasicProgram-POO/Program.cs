@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+using BasicProgram_POO;
+
+ChildClass insta = new ChildClass();
+
+insta.method1();
+insta.method2();

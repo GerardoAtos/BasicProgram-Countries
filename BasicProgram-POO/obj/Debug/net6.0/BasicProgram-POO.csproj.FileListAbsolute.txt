@@ -1,0 +1,15 @@
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\bin\Debug\net6.0\BasicProgram-POO.exe
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\bin\Debug\net6.0\BasicProgram-POO.deps.json
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\bin\Debug\net6.0\BasicProgram-POO.runtimeconfig.json
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\bin\Debug\net6.0\BasicProgram-POO.dll
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\bin\Debug\net6.0\ref\BasicProgram-POO.dll
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\bin\Debug\net6.0\BasicProgram-POO.pdb
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\obj\Debug\net6.0\BasicProgram-POO.csproj.AssemblyReference.cache
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\obj\Debug\net6.0\BasicProgram-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\obj\Debug\net6.0\BasicProgram-POO.AssemblyInfoInputs.cache
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\obj\Debug\net6.0\BasicProgram-POO.AssemblyInfo.cs
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\obj\Debug\net6.0\BasicProgram-POO.csproj.CoreCompileInputs.cache
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\obj\Debug\net6.0\BasicProgram-POO.dll
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\obj\Debug\net6.0\ref\BasicProgram-POO.dll
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\obj\Debug\net6.0\BasicProgram-POO.pdb
+C:\Users\a847065\Git\ConsoleApp1\BasicProgram-POO\obj\Debug\net6.0\BasicProgram-POO.genruntimeconfig.cache

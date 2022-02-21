@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace BasicProgram_POO
 {
-    internal class AbsClass
+    internal abstract class AbsClass
     {
+        //string atributo1 = "";
+        //string atributo2 = "";
+
+        internal abstract void method1();
+        internal abstract void method2();
+
     }
 }
