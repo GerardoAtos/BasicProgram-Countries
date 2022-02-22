@@ -12,9 +12,18 @@ namespace ConsoleApp1
         {
             string content = "";
             string endPath = path + outputFile;
+            try 
+            {
+                throw new Exception("Error triguereado adrede");
+            }
+            catch (Exception ex) 
+            {
+                Console.WriteLine(ex);
+            }
+
             try
             {
-                using(StreamReader oSR = File.OpenText(path + inputFile))
+                using (StreamReader oSR = File.OpenText(path + inputFile))
                 {
                     string country = "";
                     while((country = oSR.ReadLine()) != null)

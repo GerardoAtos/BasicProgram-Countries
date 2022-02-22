@@ -8,13 +8,17 @@ namespace BasicProgram_POO
 {
     internal class ChildClass : AbsClass
     {
-        internal override void method1() 
+        //ChildClass ejemplillo = new ChildClass();
+
+        protected override void method1() 
         {
             Console.WriteLine("ejecutando metodo 1");
         }
-        internal override void method2() 
+        protected override void method2() 
         {
             Console.WriteLine("ejecutando metodo 2");
         }
+        
+
     }
 }

@@ -8,11 +8,11 @@ namespace BasicProgram_POO
 {
     internal abstract class AbsClass
     {
-        //string atributo1 = "";
-        //string atributo2 = "";
+        protected string atributo1 = "";
+        protected string atributo2 = "";
 
-        internal abstract void method1();
-        internal abstract void method2();
+        protected abstract void method1();
+        protected abstract void method2();
 
     }
 }
